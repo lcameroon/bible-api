@@ -1,0 +1,1 @@
+{"response":{"bookname":"The Prayer of Manasseh","number_of_chapters":"1","chapters":[{"chapter":"1","link":"./?book=The-Prayer-of-Manasseh&chapter=1"}]}}

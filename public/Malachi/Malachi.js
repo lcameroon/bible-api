@@ -1,0 +1,1 @@
+{"response":{"bookname":"Malachi","number_of_chapters":"4","chapters":[{"chapter":"1","link":"./?book=Malachi&chapter=1"},{"chapter":"2","link":"./?book=Malachi&chapter=2"},{"chapter":"3","link":"./?book=Malachi&chapter=3"},{"chapter":"4","link":"./?book=Malachi&chapter=4"}]}}

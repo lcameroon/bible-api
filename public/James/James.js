@@ -1,0 +1,1 @@
+{"response":{"bookname":"James","number_of_chapters":"5","chapters":[{"chapter":"1","link":"./?book=James&chapter=1"},{"chapter":"2","link":"./?book=James&chapter=2"},{"chapter":"3","link":"./?book=James&chapter=3"},{"chapter":"4","link":"./?book=James&chapter=4"},{"chapter":"5","link":"./?book=James&chapter=5"}]}}

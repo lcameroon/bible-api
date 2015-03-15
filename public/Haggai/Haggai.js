@@ -1,0 +1,1 @@
+{"response":{"bookname":"Haggai","number_of_chapters":"2","chapters":[{"chapter":"1","link":"./?book=Haggai&chapter=1"},{"chapter":"2","link":"./?book=Haggai&chapter=2"}]}}

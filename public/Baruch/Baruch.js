@@ -1,0 +1,1 @@
+{"response":{"bookname":"Baruch","number_of_chapters":"5","chapters":[{"chapter":"1","link":"./?book=Baruch&chapter=1"},{"chapter":"2","link":"./?book=Baruch&chapter=2"},{"chapter":"3","link":"./?book=Baruch&chapter=3"},{"chapter":"4","link":"./?book=Baruch&chapter=4"},{"chapter":"5","link":"./?book=Baruch&chapter=5"}]}}

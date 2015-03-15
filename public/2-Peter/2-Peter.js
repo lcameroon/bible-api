@@ -1,0 +1,1 @@
+{"response":{"bookname":"2 Peter","number_of_chapters":"3","chapters":[{"chapter":"1","link":"./?book=2-Peter&chapter=1"},{"chapter":"2","link":"./?book=2-Peter&chapter=2"},{"chapter":"3","link":"./?book=2-Peter&chapter=3"}]}}

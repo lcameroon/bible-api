@@ -1,0 +1,1 @@
+{"response":{"bookname":"Lamentations","number_of_chapters":"5","chapters":[{"chapter":"1","link":"./?book=Lamentations&chapter=1"},{"chapter":"2","link":"./?book=Lamentations&chapter=2"},{"chapter":"3","link":"./?book=Lamentations&chapter=3"},{"chapter":"4","link":"./?book=Lamentations&chapter=4"},{"chapter":"5","link":"./?book=Lamentations&chapter=5"}]}}

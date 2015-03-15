@@ -1,0 +1,1 @@
+{"response":{"bookname":"Nahum","number_of_chapters":"3","chapters":[{"chapter":"1","link":"./?book=Nahum&chapter=1"},{"chapter":"2","link":"./?book=Nahum&chapter=2"},{"chapter":"3","link":"./?book=Nahum&chapter=3"}]}}

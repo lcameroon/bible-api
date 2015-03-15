@@ -1,0 +1,1 @@
+{"response":{"bookname":"1 John","number_of_chapters":"5","chapters":[{"chapter":"1","link":"./?book=1-John&chapter=1"},{"chapter":"2","link":"./?book=1-John&chapter=2"},{"chapter":"3","link":"./?book=1-John&chapter=3"},{"chapter":"4","link":"./?book=1-John&chapter=4"},{"chapter":"5","link":"./?book=1-John&chapter=5"}]}}

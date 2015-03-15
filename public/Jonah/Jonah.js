@@ -1,0 +1,1 @@
+{"response":{"bookname":"Jonah","number_of_chapters":"4","chapters":[{"chapter":"1","link":"./?book=Jonah&chapter=1"},{"chapter":"2","link":"./?book=Jonah&chapter=2"},{"chapter":"3","link":"./?book=Jonah&chapter=3"},{"chapter":"4","link":"./?book=Jonah&chapter=4"}]}}

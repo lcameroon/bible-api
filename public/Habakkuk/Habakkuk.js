@@ -1,0 +1,1 @@
+{"response":{"bookname":"Habakkuk","number_of_chapters":"3","chapters":[{"chapter":"1","link":"./?book=Habakkuk&chapter=1"},{"chapter":"2","link":"./?book=Habakkuk&chapter=2"},{"chapter":"3","link":"./?book=Habakkuk&chapter=3"}]}}

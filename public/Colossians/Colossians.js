@@ -1,0 +1,1 @@
+{"response":{"bookname":"Colossians","number_of_chapters":"4","chapters":[{"chapter":"1","link":"./?book=Colossians&chapter=1"},{"chapter":"2","link":"./?book=Colossians&chapter=2"},{"chapter":"3","link":"./?book=Colossians&chapter=3"},{"chapter":"4","link":"./?book=Colossians&chapter=4"}]}}
