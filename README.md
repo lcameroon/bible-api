@@ -1,5 +1,4 @@
 # Bible API
-===========
 
 [Demo Bible API](https://guarded-beyond-9967.herokuapp.com/)
 
@@ -8,7 +7,6 @@ Create your own Bible API using Sinatra (Sinatra is a DSL for quickly creating w
 > No database required! The whole Bible are on static files (`/public` in *JSON* format)
 
 ## Installation
----------------
 
 * Install Sinatra `$ gem install sinatra`
 * Install Thin web server `$ gem install thin`
@@ -18,7 +16,7 @@ Create your own Bible API using Sinatra (Sinatra is a DSL for quickly creating w
 
 
 ## Usage
-----------
+
 Get All Books
 
     http://localhost:4567/api
