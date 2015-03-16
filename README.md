@@ -1,6 +1,6 @@
 # Bible API
 
-[Demo Bible API](https://guarded-beyond-9967.herokuapp.com/)
+[Demo Bible API](https://guarded-beyond-9967.herokuapp.com/api)
 
 Create your own Bible API using Sinatra (Sinatra is a DSL for quickly creating web applications in Ruby with minimal effort)
 
