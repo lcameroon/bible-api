@@ -21,17 +21,17 @@ Get All Books
 
     http://localhost:4567/api
 
-Get Chapters from Book
+Get All Chapters by Book
 
     http://localhost:4567/api/:bookname
     eg.: http://localhost:4567/api/Genesis
 
-Get Verses from Chapter
+Get All Verses by Chapter
 
     http://localhost:4567/api/:bookname/:chapter
     eg.: http://localhost:4567/api/Genesis/1
 
-Get single Verse
+Get Single Verse
 
     http://localhost:4567/api/:bookname/:chapter/:verse
     eg.: http://localhost:4567/api/Genesis/1/3
